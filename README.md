@@ -18,6 +18,6 @@
 
 ### Home & Drawer Screens
 <p align="center">
-  <img src="assets/images/drawer_screen.jpg" alt="Drawer Screen" width="250"/>
+  <img src="assets/images/drawer_screen2.jpg" alt="Drawer Screen" width="250"/>
   <img src="assets/images/home_screen.jpg" alt="Home Screen" width="250"/>
 </p>
